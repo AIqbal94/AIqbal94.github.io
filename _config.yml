@@ -1,16 +1,16 @@
 # Site settings
-name: name
-email: email
-url: url
-description: "A blog and a portfolio"
-author: "author"
+name: Bioinformatics blog
+email: aiqbal@age.mpg.de
+url: https://aiqbal94.github.io
+description: Some useful notes and templates.
+author: Ayesha Iqbal
 title: "BlogFolio"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
 
 # social
 github:
-  username: username
+  username: AIqbal94
 
-twitter:
-  username: username
+linkedin:
+  username: ayesha-iqbal-2726b6151
