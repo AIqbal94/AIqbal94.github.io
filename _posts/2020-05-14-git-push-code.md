@@ -1,0 +1,13 @@
+---
+published: true
+title: "Push code to git without any upload"
+layout: post
+date: 2020-05-14
+---
+
+```bash
+cd scripts.AIqbal
+git add -A .
+git commit -m "code"
+git push
+```
