@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multifast to Fasta"
-date: 2016-11-17
+date: 2020-01-08
 published: true
 ---
 
