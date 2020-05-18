@@ -8,7 +8,6 @@ published: true
 Download a pipeline directly on the server from a GitHub repo;
 
 - kallisto_deseq2
-
 ```bash
 wget https://raw.githubusercontent.com/mpg-age-bioinformatics/htseq-tools/master/kallisto_deseq2.sh
 ```
