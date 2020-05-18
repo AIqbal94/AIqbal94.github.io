@@ -5,7 +5,7 @@ date: 2020-01-30
 published: true
 ---
 
-To install an updated version of a python package from Git (using python3);
+To install an updated version of a python package from Git using python3;
 
 ```
 pip3 install git+https link to the git repository --user
