@@ -5,12 +5,16 @@ date: 2020-01-09
 published: true
 ---
 
-Download the `kallisto_deseq2.sh` pipeline or the `tuxedo-slurm.sh` pipeline directly on the server by the respective commands;
+Download a pipeline directly on the server from a GitHub repo;
 
+- kallisto_deseq2
 
-`wget https://raw.githubusercontent.com/mpg-age-bioinformatics/htseq-tools/master/kallisto_deseq2.sh`
+```bash
+wget https://raw.githubusercontent.com/mpg-age-bioinformatics/htseq-tools/master/kallisto_deseq2.sh
+```
 
-
-
-`wget https://raw.githubusercontent.com/mpg-age-bioinformatics/htseq-tools/master/tuxedo_v3-slurm.sh`
+- Tuxedo
+```bash
+wget https://raw.githubusercontent.com/mpg-age-bioinformatics/htseq-tools/master/tuxedo_v3-slurm.sh
+```
 
