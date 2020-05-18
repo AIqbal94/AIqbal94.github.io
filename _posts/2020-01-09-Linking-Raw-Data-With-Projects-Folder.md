@@ -11,7 +11,6 @@ First get the links of the raw data files in a text file using;
 for f in $(ls *.gz) ; do echo "ln -s $(readlink -f ${f})"  ; done > /path/to/the/scripts_folder/scripts.AIqbal/links.sh
 ```
 
-
 Then change directory to `/path/to/the/scripts_folder/scripts.AIqbal/` to edit the `links.sh` file and add the following 
 at the top;
 
