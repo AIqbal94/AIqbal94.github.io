@@ -1,12 +1,12 @@
 # Site settings
-name: Bioinformatics blog
+name: Ayesha Iqbal
 email: aiqbal@age.mpg.de
 url: https://aiqbal94.github.io
 description: Some useful notes and templates.
 author: Ayesha Iqbal
-title: "BlogFolio"
+title: "Bioinformatics Blog"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl: 
 
 # social
 github:
