@@ -1,21 +1,21 @@
 {
     "items": [
         {
-            "name": "Project One",
+            "name": "Investigating the Presence and Effects of Modified &gamma;&delta; T Cells in Breast Cancer",
             "link": "",
             "image": "https://github.com/AIqbal94/AIqbal94.github.io/blob/master/images/Screenshot_Classifier.png?raw=true",
             "date_added": "2017-06-09",
             "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
-            "technologies": [ "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS" ]
+            "technologies": [ "Python", "R", "Bash", "Bootstrapping", "PamR" ]
         },
         
         {
-            "name": "Project Two",
+            "name": "Identifying Pathogenic Germline Variation in Triple Negative Breast Cancer",
             "link": "",
             "image": "https://github.com/AIqbal94/AIqbal94.github.io/blob/master/images/Screenshot_VarCalling_Pipe.png?raw=true",
             "date_added": "2017-06-09",
             "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
-            "technologies": [ "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS" ]
+            "technologies": [ "R", "Bash", "VarScan", "Platypus", "GATK" ]
         }
    
     ]
